@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
 <h1 align="center">Hi 👋, I'm Suman Sinha</h1>
-<h4 align="center">Passionate UI Developer with a demonstrated history of working in the information technology and services industry. Also I love to guide and mentor fresher's and students in my free time.</h4>
+<h4 align="center">UI Developer with a demonstrated history of working in the information technology and services industry, skilled in JavaScript-related frameworks like Angular/React, responsive mobile development with Bootstrap, HTML, and CSS pre-processing frameworks.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha1994&label=Profile%20views&color=0e75b6&style=flat" alt="sinha1994" /> </p>
 
@@ -12,13 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sumansinha1194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumansinha1194" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thesumansinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesumansinha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19700018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19700018" height="30" width="40" /></a>
-<a href="https://instagram.com/techwithsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwithsuman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sinha1194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinha1194" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sinha1194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sinha1194" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sinha1194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sinha1194" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19700018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19700018" height="30" width="40" /></a>
+<a href="https://instagram.com/techwithsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwithsuman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
