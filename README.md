@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha1994&label=Profile%20views&color=0e75b6&style=flat" alt="sinha1994" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Angular, JavaScript, Responsive Web Development**
+- 💬 Ask me about **Angular, React, JavaScript, Responsive Web Development**
 
 - 📫 How to reach me **sinha1194@gmail.com**
 
